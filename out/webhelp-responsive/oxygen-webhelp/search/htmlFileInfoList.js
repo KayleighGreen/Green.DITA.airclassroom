@@ -1,0 +1,16 @@
+fil = new Array();
+fil["0"]= "c-conclusion.html@@@Goodbye!@@@We really hoped you enjoyed your stay...";
+fil["1"]= "c-intro.html@@@Welcome to Shanks!@@@Figure: Shanks Hall Hello, Blacksburg High School Students , and welcome to Shanks Hall airclassroom. Inside of this manual you will find all of the information you need in order to have a...";
+fil["2"]= "c-workscited.html@@@Works Cited@@@All images and references came from these sources...";
+fil["3"]= "t-campusdirections.html@@@How to Get to Shanks Hall from Campus@@@Even when you&apos;re familiar with the Virginia Tech Campus, Shanks is a difficult place to find!...";
+fil["4"]= "t-christiansburgdirections.html@@@How to Get to Shanks Hall from Christiansburg@@@Travelling from Christansburg to Shanks Hall in a car will take 24 minutes. Get on US-460 W. Follow US-460 W to VA-412 N/Prices Fork Rd in Blacksburg. Take the VA-412 N exit from US-460 W. Continue on...";
+fil["5"]= "t-classcomputer.html@@@How to Use the Classroom Computer@@@Computers can do many various actions, but each one is different...";
+fil["6"]= "t-cleaning.html@@@How to Clean the Classroom@@@Please leave the room in respectable shape...";
+fil["7"]= "t-fire.html@@@In Case of a Fire@@@What to do in case there is a fire or the fire alarms go off in Shanks...";
+fil["8"]= "t-garagedirections.html@@@How to Get to Shanks Hall from the Garage@@@How to get to Shanks Hall once you have arrived at the North End Parking Garage...";
+fil["9"]= "t-highschooldirections.html@@@How to Get to Shanks Hall from Blacksburg High School@@@Travelling from Blacksburg High School to Shanks Hall in a car will take 18 minutes. Drive west on Bruin Lane toward Prices Fork Road. Turn right at the 1st cross street onto Prices Fork Road...";
+fil["10"]= "t-injury.html@@@In Case of an Injury@@@Information about who you should contact in case of an injury...";
+fil["11"]= "t-payment.html@@@How to Make a Payment@@@Now that you have decided to reserve...";
+fil["12"]= "t-phone.html@@@How to Use Classroom Phone@@@All the information you need about Shanks&apos;s business phone...";
+fil["13"]= "t-projector.html@@@How to Use the Classroom Projector@@@Even professors at Virginia Tech struggle with operating this projector!...";
+fil["14"]= "ts-troubleshooting.html@@@Troubleshooting@@@Projected image is not showing There could be different issues. Try the following: Ensure the lens cover is open completely. Turn on the connected computer or video device. Press the Source Search...";

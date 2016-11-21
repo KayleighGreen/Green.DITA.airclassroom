@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-fire">
-    <title><image placement="inline" href="_images/fire.png" height="100" id="image_fire"/>In
-        Case of a Fire</title>
-    <shortdesc>What to do in case there is a fire <b>or</b> the fire alarms go off in Shanks.</shortdesc>
+    <title>In Case of a Fire</title>
+    <shortdesc>What to do in case there is a fire <b>or</b> the fire alarms go off in Shanks.<image
+            placement="break" href="_images/fire.png" align="center" id="image_fire"
+        /></shortdesc>
     <taskbody>
         <context>
             <p>All evacuation routes are posted by the door.</p>

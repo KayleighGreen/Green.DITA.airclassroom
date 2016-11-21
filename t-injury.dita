@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-injury">
-    <title><image placement="inline" href="_images/911.png" height="100" id="image_911"/>In
-        Case of an Injury</title>
-    <shortdesc>Information about who you should contact in case of an injury.</shortdesc>
+    <title>In Case of an Injury</title>
+    <shortdesc>Information about who you should contact in case of an injury.<image placement="break"
+            href="_images/911.png" align="center" id="image_911"/></shortdesc>
     <taskbody>
         <context>
             <p><note type="important" id="calm">Remain calm and follow these steps.</note></p>

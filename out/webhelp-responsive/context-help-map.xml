@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-intro" path="c-intro.html"/>
+   <appContext helpID="t-payment" path="t-payment.html"/>
+   <appContext helpID="t-highschooldirections" path="t-highschooldirections.html"/>
+   <appContext helpID="t-classcomputer" path="t-classcomputer.html"/>
+   <appContext helpID="t-projector" path="t-projector.html"/>
+   <appContext helpID="task_vcz_bgc_1y" path="t-phone.html"/>
+   <appContext helpID="t-cleaning" path="t-cleaning.html"/>
+   <appContext helpID="t-injury" path="t-injury.html"/>
+   <appContext helpID="t-fire" path="t-fire.html"/>
+   <appContext helpID="ts-troubleshooting" path="ts-troubleshooting.html"/>
+   <appContext helpID="c-conclusion" path="c-conclusion.html"/>
+   <appContext helpID="c-workscited" path="c-workscited.html"/>
+</map>

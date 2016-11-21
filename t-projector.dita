@@ -25,7 +25,7 @@
                 <info>
                     <fig id="switch">
                         <title>Switch</title>
-                        <image placement="break" href="_images/switch.jpg" height="500"
+                        <image placement="break" href="_images/switch.jpg" height="300"
                             align="center" id="projector_switch"/>
                     </fig>
                 </info>

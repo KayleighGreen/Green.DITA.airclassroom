@@ -8,7 +8,7 @@
             <fig id="computer">
                 <title>Classroom Computer</title>
                 <image placement="break" href="_images/computer.jpg" align="center"
-                    id="class_computer" height="500"/>
+                    id="class_computer" height="400" width="300"/>
             </fig>
             <p>Follow these steps to operate our classroom's computers.</p>
         </context>
@@ -19,17 +19,17 @@
             <step>
                 <cmd><b>Select</b> preferred operating system: Mac or Windows.</cmd>
             </step>
-            <step>
-                <cmd audience="highschool"><b>Login</b> with your Virginia Tech account.</cmd>
+            <step audience="highschool">
+                <cmd><b>Login</b> with your Virginia Tech account.</cmd>
             </step>
-            <step>
-                <cmd audience="college"><b>Login</b> with your Virginia Tech account.</cmd>
+            <step audience="college">
+                <cmd><b>Login</b> with your Virginia Tech account.</cmd>
             </step>
-            <step>
-                <cmd audience="ymca"><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
+            <step audience="ymca">
+                <cmd><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
             </step>
-            <step>
-                <cmd audience="business"><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
+            <step audience="business">
+                <cmd><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
             </step>
             <step>
                 <cmd><b>Save</b> all documents to a drive before logging out, because all information on the computer will not be saved.</cmd>

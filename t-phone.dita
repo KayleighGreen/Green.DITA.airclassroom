@@ -7,7 +7,7 @@
         <context>
             <fig id="phone">
                 <title>Phone</title>
-                <image placement="break" href="_images/phone.jpg" height="500" align="center"
+                <image placement="break" href="_images/phone.jpg" height="300" align="center"
                     id="image_phone"/>
             </fig>
             <p audience="highschool">These phones aren't around much anymore, so it is understandable to need assistance!</p>
