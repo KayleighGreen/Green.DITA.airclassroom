@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vcz_bgc_1y">
+    <title>How to Use Classroom Phone</title>
+    <shortdesc>All the information you need about Shanks's business phone.</shortdesc>
+    <taskbody>
+        <context>
+            <fig id="phone">
+                <title>Phone</title>
+                <image placement="break" href="_images/phone.jpg" height="500" align="center"
+                    id="image_phone"/>
+            </fig>
+            <p audience="highschool">These phones aren't around much anymore, so it is understandable to need assistance!</p>
+            <p audience="college">Business phones, when you aren't used to them, can be a bit tricky.</p>
+            <p audience="business">Every phone is slightly different, and these directions give you the correct extension numbers.</p>
+            <p audience="ymca">Every phone is slightly different, and these directions give you the correct extension numbers.</p>
+            <note type="warning">Rates will apply, and will be charged to your final bill.</note>          
+            </context>
+        <steps>
+            <step>
+                <cmd><b>Ensure</b> phone is working.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>If phone does not work, email Airclassroom.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Make</b> call.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Press</b> number 2 and then dial extension number to contact someone within Shanks Hall.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd><b>Press</b> number 9 and then number 1 and then dial number to make a long distance call.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+
+        </steps>
+    </taskbody>
+</task>

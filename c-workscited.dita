@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-workscited">
+ <title>Works Cited</title>
+ <shortdesc>All images and references came from these sources:</shortdesc>
+ <conbody>
+  <ul>
+   <li>Epson Projector Manual: https://files.support.epson.com/pdf/ex3210/ex3210ug.pdf</li>
+   <li>Epson Image: http://www.epson-plating.com.sg/epson_malaysia/my_epson/tips_and_tricks/eb_s7/mounting_tips_for_your_projector.page</li>
+   <li>Credit Card Image: http://www.pngmart.com/image/29687</li>
+   <li>Emergency Images: https://s-media-cache-ak0.pinimg.com/originals/56/c7/9b/56c79bab12a69c4e1d119c1b4f53c277.jpg</li>
+   <li>Airbnb payment reference: https://www.airbnb.com/help/article/245/how-do-i-pay-for-my-long-term-reservation</li>
+   <li>All maps: Google Maps</li>
+   <li>Shanks Hall image: https://www.vt.edu/about/buildings/shanks-hall.html</li>
+   <li>Phone image: Courtesy of Kayleigh Green</li>
+   <li>Screen image: Courtesy of Kayleigh Green</li>
+   <li>Computer image: Courtesy of Kayleigh Green</li>
+   <li>Switch image: Courtesy of Kayleigh Green</li>
+  </ul>
+ </conbody>
+</concept>

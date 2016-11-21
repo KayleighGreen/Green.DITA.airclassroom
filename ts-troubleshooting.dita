@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ts-troubleshooting">
+  <title>Troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>Projected image is not showing</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>There could be different issues.</title>
+        <p>Try the following:</p>
+      </cause>
+      <remedy>
+      <steps-unordered>
+          <step>
+            <cmd><b>Ensure</b> the lens cover is open completely.</cmd>
+          </step>
+          <step>
+            <cmd><b>Turn on</b> the connected computer or video device.</cmd>
+          </step>
+          <step>
+             <cmd><b>Press</b> the Source Search button on the projector remote to detect the video source.</cmd>
+          </step>
+          <step>
+            <cmd><b>Insert</b> a DVD or other video media, and press the play button (if necessary).</cmd>  
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

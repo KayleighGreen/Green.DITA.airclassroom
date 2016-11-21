@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-garagedirections">
+    <title>How to Get to Shanks Hall Garage</title>
+    <shortdesc>How to get to Shanks Hall once you have arrived at the North End Parking
+        Garage.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Follow these directions:</p>
+        </context>
+        <steps>
+        <step>
+            <cmd><b>Drive</b> to Turner St NE. North End Parking Garage will be on the <b>right</b>.</cmd>
+        </step>
+        <step>
+            <cmd><b>Pay</b> and <b>park</b> in parking garage.</cmd>
+        </step>
+        <step>
+            <cmd><b>Walk</b> southwest on Turner Street NE toward Montgomery Street.<image placement="break"
+                href="_images/shanks_map.png" align="center" id="garage_to_shanks"/></cmd>
+        </step>
+        <step>
+            <cmd><b>Walk</b> along Turner Street NW.</cmd>
+        </step>
+        <step>
+                <cmd><b>Cross</b> street.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> left on sidewalk. Shanks is on the <b>right</b>.</cmd>
+            </step>
+            <step>
+                <cmd><b>Follow</b> sidewalk around Monteith Hall.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

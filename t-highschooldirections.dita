@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-highschooldirections">
+    <title>How to Get to Shanks Hall from Blacksburg High School</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Travelling from Blacksburg High School to Shanks Hall in a car will take 18
+                    minutes.<image placement="break" href="_images/garage_map.png" align="center"
+                    id="highschool_to_garage"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Drive</b> west on Bruin Lane toward Prices Fork Road.</cmd>
+            </step>
+            <step>
+                <cmd>
+                   <b>Turn</b> right at the 1st cross street onto Prices Fork Road.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    <b>Continue</b> straight to stay on Prices Fork Road.</cmd>
+            </step>
+            <step>
+                <cmd><b>Continue</b> straight to stay on Prices Fork Rd</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> left onto Giles Road.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> right onto Progress Street NE.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> left at the 1st cross street onto Turner Street NE. Destination will be on the <b>right</b>.</cmd>
+            </step>
+            <step>
+                <cmd><b>Pay</b> and <b>park</b> in parking garage.</cmd>
+            </step>
+            <step>
+                <cmd><b>Walk</b> southwest on Turner Street NE toward Montgomery Street.<image placement="break"
+                    href="_images/shanks_map.png" align="center" id="garage_to_shanks"/></cmd>
+            </step>
+            <step>
+                <cmd><b>Walk</b> along Turner Street NW.</cmd>
+            </step>
+            <step>
+                <cmd><b>Cross</b> street.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> left on sidewalk. Shanks is on the <b>right</b>.</cmd>
+            </step>
+            <step>
+                <cmd><b>Follow</b> sidewalk around Monteith Hall.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

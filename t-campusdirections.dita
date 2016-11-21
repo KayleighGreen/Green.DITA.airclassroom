@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-campusdirections">
+    <title>How to Get to Shanks Hall from Campus</title>
+    <shortdesc>Even when you're familiar with the Virginia Tech Campus, Shanks is a difficult place
+        to find!<image placement="break" href="_images/campus_map.png" align="center"
+            id="campusmap"/></shortdesc>
+    <taskbody>
+        <context>
+            <p>Getting to Shanks Hall from Burruss Hall will take about 8 minutes.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Walk</b> northeast on Drillfield Drive toward Stanger Street.</cmd> 
+            </step>
+            <step>
+                <cmd><b>Cross</b> Stanger Street at the crosswalk across from McBryde Hall.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> left and follow the sidewalk past the Liberal Arts Building.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> right at Femoyer Hall.</cmd>
+            </step>
+            <step>
+                <cmd><b>Follow</b> sidewalk.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> right once you have passed Major Williams.</cmd>
+            </step>
+            <step>
+                <cmd><b>Follow</b> the sidewalk and turn left. Shanks Hall will be before you.</cmd>
+            </step>
+            <step>
+                <cmd><b>Walk</b> to the front door and <b>enter</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

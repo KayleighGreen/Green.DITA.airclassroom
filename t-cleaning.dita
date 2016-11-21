@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-cleaning">
+    <title>How to Clean the Classroom</title>
+    <shortdesc>Please leave the room in respectable shape.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Of course, you do not have to leave the room squeaky clean, but we would appreciate it if you left our room in working order.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Return</b> all chairs.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn off</b> all computers.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn off</b> the projector.</cmd>
+            </step>
+            <step>
+                <cmd><b>Clean</b> any spills or messes with the clean up kit found in the metal cabinet in the back of the room.</cmd>
+            </step>
+            <step>
+                <cmd><b>Lock</b> the door when you leave.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

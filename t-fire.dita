@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-fire">
+    <title><image placement="inline" href="_images/fire.png" height="100" id="image_fire"/>In
+        Case of a Fire</title>
+    <shortdesc>What to do in case there is a fire <b>or</b> the fire alarms go off in Shanks.</shortdesc>
+    <taskbody>
+        <context>
+            <p>All evacuation routes are posted by the door.</p>
+            <p><note conref="t-injury.dita#t-injury/calm"></note></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Evacuate</b> if you hear a fire alarm.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Activate</b> the fire alarm on your way out, if you notive a fire before the alarm sounds.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Close</b> all doors behind you.</cmd>
+            </step>
+            <step>
+                <cmd><b>Assist</b> individuals with disabilities. <b>Do not use</b> elevators.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Report</b> the locations of those individuals to the emergency personnel if you cannot help them evacuate.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-classcomputer">
+    <title>How to Use the Classroom Computer</title>
+    <shortdesc>Computers can do many various actions, but each one is different.</shortdesc>
+    <taskbody>
+        <context>
+            <fig id="computer">
+                <title>Classroom Computer</title>
+                <image placement="break" href="_images/computer.jpg" align="center"
+                    id="class_computer" height="500"/>
+            </fig>
+            <p>Follow these steps to operate our classroom's computers.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Turn</b> on computer.</cmd>
+            </step>
+            <step>
+                <cmd><b>Select</b> preferred operating system: Mac or Windows.</cmd>
+            </step>
+            <step>
+                <cmd audience="highschool"><b>Login</b> with your Virginia Tech account.</cmd>
+            </step>
+            <step>
+                <cmd audience="college"><b>Login</b> with your Virginia Tech account.</cmd>
+            </step>
+            <step>
+                <cmd audience="ymca"><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
+            </step>
+            <step>
+                <cmd audience="business"><b>Login</b> with the certified Virginia Tech account given to you in your reservation confimartion email.</cmd>
+            </step>
+            <step>
+                <cmd><b>Save</b> all documents to a drive before logging out, because all information on the computer will not be saved.</cmd>
+            </step>
+            <step>
+                <cmd><b>Logout</b> of your account when finished.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn off</b> computer.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

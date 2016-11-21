@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-injury">
+    <title><image placement="inline" href="_images/911.png" height="100" id="image_911"/>In
+        Case of an Injury</title>
+    <shortdesc>Information about who you should contact in case of an injury.</shortdesc>
+    <taskbody>
+        <context>
+            <p><note type="important" id="calm">Remain calm and follow these steps.</note></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Report</b> the emergency.</cmd>  
+                <substeps>
+                    <substep>
+                        <cmd><b>Call</b> 911 from a cell phone or the phone in Shanks.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd><b>Stay</b> on the phone with the dispatcher.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Give</b> the injuried individual space.</cmd>  
+                <substeps>
+                    <substep>
+                        <cmd><b>Do not</b> move injuried unless they are in immediate danger.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Escort</b> emergency personnel to the injuried.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-projector">
+    <title>How to Use the Classroom Projector</title>
+    <shortdesc>Even professors at Virginia Tech struggle with operating this projector!</shortdesc>
+    <taskbody>
+        <context>
+            <fig id="projector">
+                <title>Epson Projector</title>
+                <image placement="break" href="_images/epson.jpg" align="center"
+                    id="image_projector"/>
+            </fig>
+            <p>Follow these directions to connect the projector to a computer.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Turn on</b> the projector with wireless remote.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn on</b> computer.</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn on</b> projector screen by selecting "down" on the switch by the
+                    door.</cmd>
+                <info>
+                    <fig id="switch">
+                        <title>Switch</title>
+                        <image placement="break" href="_images/switch.jpg" height="500"
+                            align="center" id="projector_switch"/>
+                    </fig>
+                </info>
+                <info>
+                    <fig id="screen">
+                        <title>Projector Screen</title>
+                        <image placement="break" href="_images/screen.jpg" align="center"
+                            id="projector_screen" height="500" width="500"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Connect</b> the HDMI cable to your computer's HDMI output port.</cmd>
+            </step>
+            <step>
+                <cmd><b>Connect</b> the other end to the projector's HDMI port.</cmd>
+            </step>
+            <step>
+                <cmd><b>Control</b> what is projected by using the computer.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

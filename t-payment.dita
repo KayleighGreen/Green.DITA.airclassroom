@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-payment">
+    <title>How to Make a Payment</title>
+    <shortdesc>Now that you have decided to reserve </shortdesc>
+    <taskbody>
+       <steps>
+            <step>
+                <cmd><b>Submit</b> a reservation form, which can be found on the airclassroom website.</cmd>
+            </step>
+            <step>
+                <cmd><b>Select</b> a method of payment.</cmd>
+            <substeps>
+                <substep>
+                        <cmd><b>Use</b> any major credit card.</cmd>
+                        <info>
+                            <fig id="cards">
+                                <title>Major credit cards</title>
+                                <image placement="inline" href="_images/cards.png"
+                                    id="credit_cards" width="300"/>
+                            </fig>
+                        </info>
+                    </substep>
+            </substeps>
+       </step> 
+        <step>
+                <cmd><b>Fill out</b> all required information and <b>submit</b>.</cmd>
+        </step>
+        <step>
+            <cmd><b>Confirm</b> payment with email.</cmd>
+            <info>
+                <note type="note">If you do not receive a confirmation email, check your spam folder. If there is no confirmation email after ten minutes, contact our support team.</note>
+            </info>
+        </step>
+        </steps>
+    </taskbody>
+</task>
